@@ -38,3 +38,32 @@ Les établissements inscrits recevront :
 * Les modalités détaillées de l’organisation de l’épreuve pour les enseignants.
 * Une série de « sujets » d’entraînement pour préparer les élèves (ces sujets sont des « mini-gamepacks », créés à partir des épreuves des années précédentes).
 * Une affiche.
+
+### JANVIER – AVRIL 2022 : DES ÉPREUVES DE SÉLECTION / D’ENTRAÎNEMENT / FORMATION
+Les établissements inscrits recevront 3 épreuves courtes (prévoir 2 heures pour chacune) avec une grille d’évaluation précise pour chacune. Elles pourront être utilisées soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d’élèves souhaitant participer est supérieur à la capacité d’accueil de l’établissement pour l’épreuve) soit pour des entraînements ou de la formation.
+
+L’idée est que chaque établissement puisse offrir 3 périodes de 2 heures aux participants (1 fois par mois) pour pouvoir s’entraîner dans des conditions proches de celles de l’épreuve finale. Cela n’est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
+
+### 24 AVRIL 2022 – 16 MAI 2022 : ÉPREUVE DE LA NUIT DU C0DE
+Les établissements inscrits recevront le vendredi 23 avril 2022 les 4 gamepacks qui seront proposés aux élèves pour l’épreuve. Ces sujets sont confidentiels ! L’épreuve devra se dérouler entre le samedi 24 avril 2022 et le dimanche 16 mai 2022.
+
+La durée de l’épreuve est de 6 heures : chaque établissement devra donc s’assurer à l’avance de la possibilité une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le xxxxx (de 14h à 20h et les jeux réalisés seront testé et évalués à partir de 20h30) : les établissements qui souhaitent organiser la leur en simultané seront les bienvenus pour un suivi en vidéoconférence.
+
+L’épreuve demande un minimum de logistique : le nombre d’ordinateurs mis à disposition des élèves doit être suffisant (d’où la possible nécessité d’organiser des sélections), il faut prévoir un repas ou une collation pour les participants…
+
+Si des regroupements d’établissements proches sont possibles, ils sont les bienvenus également : la Nuit du c0de est censée être un évènement festif et plus nombreux sont les élèves réunis, plus ce sera le cas.
+
+### 21 MAI 2022 : SÉLECTION DES « CHAMPIONS »
+Les établissements choisissent leur équipe de champions dans chacune des catégories représentées (« collège » et « lycée »). Il s’agit de sélectionner l’équipe qui représentera l’établissement dans chacune des deux catégories pour la phase finale du concours et son classement « international ». Il est important d’impliquer les élèves dans ce choix. Par exemple, les collégiens peuvent élire l’équipe championne des lycéens et les lycéens celle des collégiens. Pour cela, les élèves doivent avoir la possibilité de tester les jeux réalisés par leurs camarades. Cette présélection peut se faire soit directement après l’épreuve soit à un autre moment. Un système de vote à distance peut être organisé (si les participants peuvent tester les jeux de leurs camarades depuis chez eux).
+
+Les établissements devront transmettre aux organisateurs les deux jeux qui les représenteront au plus tard le xxxxx.
+
+### 31 MAI 2022 : LES CHAMPIONS RÉALISENT UNE BRÈVE VIDÉO DE PRÉSENTATION DE LEUR JEU
+Chaque équipe dont le jeu a été sélectionné pour représenter son établissement lors de la phase finale doit réaliser une courte vidéo présentant son jeu. Il ne s’agit pas d’être expert en montage vidéo ni d’expliquer le code du jeu : l’idée est de réaliser une vidéo de style « gaming » pour présenter le mieux possible le déroulement d’une partie du jeu. Il s’agit donc de réaliser une capture d’écran vidéo d’une partie du jeu avec éventuellement des commentaires audio.
+
+Les établissements devront transmettre aux organisateurs les deux vidéos qui les représenteront au plus tard le xxxxxx. Une fiche d’aide à la réalisation de ces vidéos sera fournie aux établissements.
+
+### 14 JUIN 2022 (AU PLUS TARD) : LE CLASSEMENT
+Le jury, formé d’enseignants volontaires (tout enseignant dont l’établissement participe au concours peut être membre du jury) visionne chacune des vidéos pour d’établir le classement des « meilleurs programmeurs gameurs ». Le jury pourra consulter les jeux pour affiner le classement si celui-ci est trop difficile à établir à partir des seules vidéos (et pour vérifier que les vidéos correspondent bien aux jeux réalisés). Ces modalités pourront varier en fonction du nombre d’établissements participants.
+
+L’équipe de la Nuit du c0de espère votre prochaine inscription. N’hésitez pas à nous contacter pour nous poser vos questions : contact@nuitducode.net.
