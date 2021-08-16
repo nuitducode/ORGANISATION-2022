@@ -1,4 +1,4 @@
-# PRÉSENTATION
+# PRÉSENTATION v2
 
 ## PRÉSENTATION GÉNÉRALE
 La nuit du c0de est un concours de programmation organisé par le Lycée Français de Tokyo. Il s’adresse à tous les lycées français du monde : l’épreuve 2022 se déroulera au sein même des établissements participants, il n’y a aucun déplacement à prévoir (les années précédentes, tous les participants se rendaient à Taipei pour cette épreuve).
