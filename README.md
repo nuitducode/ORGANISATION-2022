@@ -1,3 +1,5 @@
 # **🧙 ORGANISATION DE LA NUIT DU CODE**
 
-* Espace de discussion : https://github.com/nuit-du-code/organisation/discussions
+* Site / inscription : www.nuitducode.net
+* Espace de discussion :  https://github.com/nuitducode/ORGANISATION/discussions
+* Twitter : www.twitter.com/nuitducode - @nuitducode
