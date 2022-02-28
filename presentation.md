@@ -26,7 +26,7 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 * Un classement mondial sera établit.
 
 ## CALENDRIER
-### SEPTEMBRE – NOVEMBRE 2021 : PRISE DE CONTACT ET INSCRIPTIONS
+### Septembre 2021 - Mars 2022 : inscriptions
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). L'inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la logistique et le suivi de l'épreuve.
 
 ### NOVEMBRE – DÉCEMBRE 2021 : PREMIERS DOCUMENTS FOURNIS
