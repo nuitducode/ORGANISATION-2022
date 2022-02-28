@@ -1,14 +1,14 @@
 # PRÉSENTATION
 
 ## PRÉSENTATION GÉNÉRALE
-La nuit du c0de est un concours de programmation organisé par le Lycée Français de Tokyo. Il s’adresse à tous les lycées français du monde : l’épreuve 2022 se déroulera au sein même des établissements participants, il n’y a aucun déplacement à prévoir (les années précédentes, tous les participants se rendaient à Taipei pour cette épreuve).
+La nuit du c0de est un concours de programmation organisé par le Lycée Français International de Tokyo (qui prend le relais du Lycée Francais de Taipei). Il s'adresse à tous les lycées français du monde. L'épreuve 2022 se déroulera au sein même des établissements participants. Il n'y a donc aucun déplacement à prévoir.
 
-Il s’agit pour les élèves participants (béquipes de 2 ou 3 élèves réparties en 2 catégories : collégiens et lycéens) de programmer entièrement un jeu avec le logiciel Scratch à partir d’un univers de jeu fourni. L’univers de jeu (le gamepack) contient tous les lutins, sons et arrière-plans nécessaires pour créer le jeu. L’épreuve dure 6 heures et les principaux critères d’évaluation sont la jouabilité, la créativité et la technique (complexité du code). Durant ces 6 heures, les élèves mettront à l’épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à la créativité).
+Il s'agit pour les élèves participants (équipes de 2 ou 3 élèves réparties en trois catégories : cycle 3, cycle 4 et lycée) de programmer entièrement un jeu avec le logiciel Scratch ou en Python à partir d’un univers de jeu fourni. L'univers de jeu (le gamepack) contient tous les lutins, sons et arrière-plans nécessaires pour créer le jeu. L'épreuve dure 6 heures et les principaux critères d’évaluation sont la jouabilité, la créativité et la technique (complexité du code). Durant ces 6 heures, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à la créativité).
 
-Chaque établissement peut inscrire autant d’élèves qu’il le souhaite, il n’y a pas de limite sur le nombre de participants. Les inscriptions sont gratuites.
+Chaque établissement peut inscrire autant d'élèves qu’il le souhaite, il n'y a pas de limite sur le nombre de participants. Les inscriptions sont gratuites.
 
 Pour se faire une idée :
-* Une petite vidéo de présentation (tous les participants étaient alors regroupés à Taipei).
+* Les [vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes.
 * Un studio Scratch regroupant les 4 univers de jeu (gamepacks) proposés lors de l’édition 2019 (ils contiennent donc tous les lutins et sons à utiliser mais aucun script).
 * Un studio Scratch regroupant les jeux primés lors de l’édition 2019.
 
