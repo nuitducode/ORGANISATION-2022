@@ -29,7 +29,7 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 ### Septembre 2021 - Mars 2022 : inscriptions
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). L'inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la logistique et le suivi de l'épreuve.
 
-### NOVEMBRE – DÉCEMBRE 2021 : PREMIERS DOCUMENTS FOURNIS
+### Novembre 2021 - Janvier 2022 : Premier documents fournis
 Les établissements inscrits auront accès :
 
 * aux règles du jeu détaillées pour les élèves.
@@ -38,12 +38,12 @@ Les établissements inscrits auront accès :
 * des affiches.
 * ...
 
-### JANVIER – AVRIL 2022 : DES ÉPREUVES DE SÉLECTION / D'ENTRAÎNEMENT / FORMATION
+### Janvier – Avril 2022 : Entraînements / Formation / Sélections
 Les établissements inscrits auront accès plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisés soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement pour l'épreuve) soit pour des entraînements ou de la formation. Ou les deux.
 
 L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exmple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n'est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
 
-### 23 AVRIL – 11 JUIN 2022 : NUIT DU C0DE
+### 23 Avril – 11 Juin 2022 : Nuit du c0de
 Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le samedi 23 avril 2022 et le samedi 11 juin 2022.
 
 La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 13h à 19h et les jeux réalisés seront testé et évalués à partir de 19h30.
@@ -66,7 +66,7 @@ L'évaluation des jeux peut se faire soit directement après l'épreuve soit à 
 
 Des modèles de diplômes seront fournis aux établissements.
 
-### FIN JUIN 2022 (AU PLUS TARD) : LE CLASSEMENT "MONDE"
+### Fin juin 2022 (au plus tard) : Classement "Monde"
 Cette année, de nombreux établissements sont encore fortement touchés par la pandémie. De plus, les nouvelles dates du baccalauréat tombent pendant la période de la Nuit du c0de. Pour offrir plus de souplesse dans l'organisation et éviter d'alourdir sa mise en place, plusieurs changements ont été nécessaires:
 - allongement de la période pour organiser l'événement : du samedi 23 avril 2022 au samedi 11 juin 2022
 - modification des critères pour le classement "monde"
