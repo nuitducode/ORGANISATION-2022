@@ -53,6 +53,7 @@ L'épreuve demande un minimum de logistique : le nombre d'ordinateurs mis à dis
 Si des regroupements d'établissements proches sont possibles, ils sont les bienvenus également : la Nuit du c0de est censée être un événement festif et convivial. Exemple : cette année, le lycée de Tokyo accueillera le lycée de Kyoto (soit un total d'un centaine d'élèves).
 
 **Évaluation des jeux**
+
 Pour faciliter le travail des organisateurs et les décharger d'une partie de la mise en place  de l'évènement, l'évaluation des jeux se fera via le site web. Chaque équipe enregistrera son jeu sur le site. Des codes d'accès permettent alors aux membres du jury (enseignants et élèves) d'évaluer tous les jeux. Il est important d’impliquer les élèves dans cette évaluation. La page d'évaluation présente tous les jeux. Les jeux seront jouables depuis cette page et une grille d'évaluation sera présentée à côté de chaque jeu.
 La Nuit du c0de n'est pas une compétition. L'idée est donc de valoriser les meilleurs jeux sans pour autant définir un classement strict. À la fin de l'évaluation des jeux, le système fournira donc les résultats par groupes : les deux meilleurs jeux dans chaque catégorie, puis les deux meilleurs suivants...
 Il sera aussi possible de définir les prix spéciaux. Cela sera laissé au choix des organisateurs.
