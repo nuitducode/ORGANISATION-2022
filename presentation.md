@@ -46,7 +46,7 @@ L'idée est que chaque établissement puisse offrir trois périodes de deux heur
 ### 23 Avril – 11 Juin 2022 : Nuit du c0de
 Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le samedi 23 avril 2022 et le samedi 11 juin 2022.
 
-La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 10h à 18h et les jeux réalisés seront testé et évalués à partir de 18h.
+La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 10h à 18h et les jeux réalisés seront testés et évalués à partir de 18h.
 
 L'épreuve demande un minimum de logistique : le nombre d'ordinateurs mis à disposition des élèves doit être suffisant (d'où la possible nécessité d'organiser des sélections), il faut prévoir un repas ou une collation pour les participants...
 
