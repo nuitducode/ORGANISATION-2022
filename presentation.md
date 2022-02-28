@@ -9,61 +9,71 @@ Chaque établissement peut inscrire autant d'élèves qu’il le souhaite, il n'
 
 Pour se faire une idée :
 * Les [vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes.
-* Un studio Scratch regroupant les 4 univers de jeu (gamepacks) proposés lors de l’édition 2019 (ils contiennent donc tous les lutins et sons à utiliser mais aucun script).
-* Un studio Scratch regroupant les jeux primés lors de l’édition 2019.
+* Un studio Scratch regroupant les [4 univers de jeu](https://scratch.mit.edu/studios/6502142/) (gamepacks) proposés lors de l’édition 2019 (ils contiennent donc tous les lutins et sons à utiliser mais aucun script).
+* Un studio Scratch regroupant les [jeux primés](https://scratch.mit.edu/studios/9987949/) lors de l’édition 2019.
 
-Comme vous pouvez le voir, le niveau est élevé, mais il ne faut pas s’en inquiéter : la Nuit du c0de est avant tout un jeu convivial et les élèves apprendront beaucoup en y participant, quel que soit leur niveau.
+Comme vous pouvez le voir, le niveau est élevé, mais il ne faut pas s'en inquiéter : la Nuit du c0de est avant tout un événement convivial et les élèves apprendront beaucoup en y participant, quel que soit leur niveau.
 
-La participation d’un établissement peut être l’occasion de la création d’un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points …).
+La participation d’un établissement peut être l'occasion de la création d’un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...).
 
-Pour toute question et demande de précisions, vous pouvez prendre contact avec l’équipe organisatrice à l’adresse contact@nuitducode.net.
+Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l’adresse contact@nuitducode.net.
 
 ## LES GRANDES LIGNES
-* Chaque établissement inscrit autant d’élèves qu’il le souhaite. Il n’y a pas de frais d’inscription.
-* Des sujets d’entraînements seront fournis à chaque établissement participant.
-* Chaque établissement organise sa Nuit du c0de avec ses élèves : tout le matériel sera fourni.
-* Au terme de l’épreuve, chaque établissement élit ses équipes championnes qui le représenteront (une équipe championne au collège et une autre au lycée).
-* Les champions réalisent une courte présentation vidéo (type « gaming ») de leur jeu.
-* Le jury visionne toutes les vidéos et établit un classement.
-* Des prix seront remis aux meilleures équipes.
-* 
+* Chaque établissement inscrit autant d'élèves qu’il le souhaite. Il n’y a pas de frais d’inscription.
+* Des sujets d'entraînements seront fournis à chaque établissement participant.
+* Chaque établissement organise sa Nuit du c0de avec ses élèves.
+* Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
+* Un classement mondial sera établit.
+
 ## CALENDRIER
 ### SEPTEMBRE – NOVEMBRE 2021 : PRISE DE CONTACT ET INSCRIPTIONS
-Si le projet vous intéresse, vous pouvez prendre contact avec l’équipe organisatrice à l’adresse contact@nuitducode.net. L’inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la logistique et le suivi de l’épreuve.
+Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). L'inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la logistique et le suivi de l’épreuve.
 
 ### NOVEMBRE – DÉCEMBRE 2021 : PREMIERS DOCUMENTS FOURNIS
-Les établissements inscrits recevront :
+Les établissements inscrits auront accès :
 
-* Les règles du jeu détaillées pour les élèves.
-* Les modalités détaillées de l’organisation de l’épreuve pour les enseignants.
-* Une série de « sujets » d’entraînement pour préparer les élèves (ces sujets sont des « mini-gamepacks », créés à partir des épreuves des années précédentes).
-* Une affiche.
+* aux règles du jeu détaillées pour les élèves.
+* aux modalités détaillées de l'organisation de l'épreuve pour les enseignants.
+* à une série de « sujets » d'entraînement pour préparer les élèves (ces sujets sont des « mini-gamepacks », créés à partir des épreuves des années précédentes).
+* des affiches.
+* ...
 
-### JANVIER – AVRIL 2022 : DES ÉPREUVES DE SÉLECTION / D’ENTRAÎNEMENT / FORMATION
-Les établissements inscrits recevront 3 épreuves courtes (prévoir 2 heures pour chacune) avec une grille d’évaluation précise pour chacune. Elles pourront être utilisées soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d’élèves souhaitant participer est supérieur à la capacité d’accueil de l’établissement pour l’épreuve) soit pour des entraînements ou de la formation.
+### JANVIER – AVRIL 2022 : DES ÉPREUVES DE SÉLECTION / D'ENTRAÎNEMENT / FORMATION
+Les établissements inscrits auront accès plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisées soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d’élèves souhaitant participer est supérieur à la capacité d’accueil de l’établissement pour l’épreuve) soit pour des entraînements ou de la formation. Ou les deux.
 
-L’idée est que chaque établissement puisse offrir 3 périodes de 2 heures aux participants (1 fois par mois) pour pouvoir s’entraîner dans des conditions proches de celles de l’épreuve finale. Cela n’est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
+L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exmple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n’est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
 
-### 24 AVRIL 2022 – 16 MAI 2022 : ÉPREUVE DE LA NUIT DU C0DE
-Les établissements inscrits recevront le vendredi 23 avril 2022 les 4 gamepacks qui seront proposés aux élèves pour l’épreuve. Ces sujets sont confidentiels ! L’épreuve devra se dérouler entre le samedi 24 avril 2022 et le dimanche 16 mai 2022.
+### 23 AVRIL – 11 JUIN 2022 : NUIT DU C0DE
+Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L’épreuve devra se dérouler entre le samedi 23 avril 2022 et le samedi 11 juin 2022.
 
-La durée de l’épreuve est de 6 heures : chaque établissement devra donc s’assurer à l’avance de la possibilité une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le xxxxx (de 14h à 20h et les jeux réalisés seront testé et évalués à partir de 20h30) : les établissements qui souhaitent organiser la leur en simultané seront les bienvenus pour un suivi en vidéoconférence.
+La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 13h à 19h et les jeux réalisés seront testé et évalués à partir de 19h30.
 
-L’épreuve demande un minimum de logistique : le nombre d’ordinateurs mis à disposition des élèves doit être suffisant (d’où la possible nécessité d’organiser des sélections), il faut prévoir un repas ou une collation pour les participants…
+L'épreuve demande un minimum de logistique : le nombre d’ordinateurs mis à disposition des élèves doit être suffisant (d'où la possible nécessité d'organiser des sélections), il faut prévoir un repas ou une collation pour les participants...
 
-Si des regroupements d’établissements proches sont possibles, ils sont les bienvenus également : la Nuit du c0de est censée être un évènement festif et plus nombreux sont les élèves réunis, plus ce sera le cas.
+Si des regroupements d'établissements proches sont possibles, ils sont les bienvenus également : la Nuit du c0de est censée être un événement festif et convivial. Exemple : cette année, le lycée de Tokyo accueillera le lycée de Kyoto (soit un total d'un centaine d'élèves).
 
-### 21 MAI 2022 : SÉLECTION DES « CHAMPIONS »
-Les établissements choisissent leur équipe de champions dans chacune des catégories représentées (« collège » et « lycée »). Il s’agit de sélectionner l’équipe qui représentera l’établissement dans chacune des deux catégories pour la phase finale du concours et son classement « international ». Il est important d’impliquer les élèves dans ce choix. Par exemple, les collégiens peuvent élire l’équipe championne des lycéens et les lycéens celle des collégiens. Pour cela, les élèves doivent avoir la possibilité de tester les jeux réalisés par leurs camarades. Cette présélection peut se faire soit directement après l’épreuve soit à un autre moment. Un système de vote à distance peut être organisé (si les participants peuvent tester les jeux de leurs camarades depuis chez eux).
+**Évaluation des jeux**
+Pour faciliter le travail des organisateurs et les décharger d'une partie de la mise en place  de l'évènement, l'évaluation des jeux se fera via le site web. Chaque équipe enregistrera son jeu sur le site. Des codes d'accès permettent alors aux membres du jury (enseignants et élèves) d'évaluer tous les jeux. Il est important d’impliquer les élèves dans cette évaluation. La page d'évaluation présente tous les jeux. Les jeux seront jouables depuis cette page et une grille d'évaluation sera présentée à côté de chaque jeu.
+La Nuit du c0de n'est pas une compétition. L'idée est donc de valoriser les meilleurs jeux sans pour autant définir un classement strict. À la fin de l'évaluation des jeux, le système fournira donc les résultats par groupes : les deux meilleurs jeux dans chaque catégorie, puis les deux meilleurs suivants...
+Il sera aussi possible de définir les prix spéciaux. Cela sera laissé au choix des organisateurs.
 
-Les établissements devront transmettre aux organisateurs les deux jeux qui les représenteront au plus tard le xxxxx.
+Cette façon d'évaluer n'est cependant pas imposée. Si des établissements souhaitent faire autrement c'est tout à fait possible.
 
-### 31 MAI 2022 : LES CHAMPIONS RÉALISENT UNE BRÈVE VIDÉO DE PRÉSENTATION DE LEUR JEU
-Chaque équipe dont le jeu a été sélectionné pour représenter son établissement lors de la phase finale doit réaliser une courte vidéo présentant son jeu. Il ne s’agit pas d’être expert en montage vidéo ni d’expliquer le code du jeu : l’idée est de réaliser une vidéo de style « gaming » pour présenter le mieux possible le déroulement d’une partie du jeu. Il s’agit donc de réaliser une capture d’écran vidéo d’une partie du jeu avec éventuellement des commentaires audio.
+L'évaluation des jeux peut se faire soit directement après l’épreuve soit à un autre moment.
 
-Les établissements devront transmettre aux organisateurs les deux vidéos qui les représenteront au plus tard le xxxxxx. Une fiche d’aide à la réalisation de ces vidéos sera fournie aux établissements.
+Des modèles de diplômes seront fournis aux établissements.
 
-### 14 JUIN 2022 (AU PLUS TARD) : LE CLASSEMENT
-Le jury, formé d’enseignants volontaires (tout enseignant dont l’établissement participe au concours peut être membre du jury) visionne chacune des vidéos pour d’établir le classement des « meilleurs programmeurs gameurs ». Le jury pourra consulter les jeux pour affiner le classement si celui-ci est trop difficile à établir à partir des seules vidéos (et pour vérifier que les vidéos correspondent bien aux jeux réalisés). Ces modalités pourront varier en fonction du nombre d’établissements participants.
+### FIN JUIN 2022 (AU PLUS TARD) : LE CLASSEMENT MONDE
+Cette année, de nombreux établissements sont encore fortement touchés par la pandémie. De plus, les nouvelles dates du baccalauréat tombent pendant la période de la Nuit du c0de. Pour offrir plus de souplesse dans l'organisation et éviter d'alourdir sa mise en place, plusieurs changements ont été nécessaires:
+- allongement de la période pour organiser l'événement : du samedi 23 avril 2022 au samedi 11 juin 2022
+- modification des critères pour le classement "monde"
 
-L’équipe de la Nuit du c0de espère votre prochaine inscription. N’hésitez pas à nous contacter pour nous poser vos questions : contact@nuitducode.net.
+Contrairement à l'an dernier, il ne sera pas demandé aux équipes sélectionnées de réaliser une vidéo afin de ne pas leur demander du travail supplémentaire dans une période qui risque d'être déjà chargée. 
+
+Tous les jeux de chaque catégorie des deux meilleures équipes seront regroupés sur une interface similaire à celle utilisée pour évaluer les jeux dans les établissements. Un jury, formé d’enseignants volontaires (tout enseignant dont l’établissement participe au concours peut être membre du jury) évaluera l'ensemble des jeux. 
+
+Au terme de cette évaluation, il sera possible de fournir un classement "monde" pour chacune des catégories (pour Scratch et pour Python).
+
+La possibilité d'un classement par zone est à l'étude (zones AEFE, académies...). Si cela est validé, ce classement sera fourni automatiquement en fonction de l'évaluation faite pour le classement "monde". Il sera cependant nécessaire que chaque établissement indique dans sa fiche d'inscription sa zone ou académie.
+
+L'équipe de la Nuit du c0de espère votre prochaine inscription. N'hésitez pas à nous contacter pour nous poser vos questions : contact@nuitducode.net.
