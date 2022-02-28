@@ -1,7 +1,7 @@
 # PRÉSENTATION
 
 ## PRÉSENTATION GÉNÉRALE
-La nuit du c0de est un événement de programmation Scratch et Python organisé par le Lycée Français International de Tokyo (qui prend le relais du Lycée Francais de Taipei). Il s'adresse à tous les lycées français du monde. L'épreuve 2022 se déroulera au sein même des établissements participants. Il n'y a donc aucun déplacement à prévoir.
+La nuit du c0de est un événement de programmation Scratch et Python organisé par le Lycée Français International de Tokyo (qui prend le relais du Lycée Français de Taipei). Il s'adresse à tous les lycées français du monde. L'épreuve 2022 se déroulera au sein même des établissements participants. Il n'y a donc aucun déplacement à prévoir.
 
 Il s'agit pour les élèves participants (équipes de 2 ou 3 élèves réparties en trois catégories : cycle 3, cycle 4 et lycée) de programmer entièrement un jeu avec le logiciel Scratch ou en Python à partir d'un univers de jeu fourni. L'univers de jeu (le gamepack) contient tous les lutins, sons et arrière-plans nécessaires pour créer le jeu. L'épreuve dure 6 heures et les principaux critères d'évaluation sont la jouabilité, la créativité et la technique (complexité du code). Durant ces 6 heures, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à la créativité).
 
@@ -23,7 +23,7 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 * Des sujets d'entraînements seront fournis à chaque établissement participant.
 * Chaque établissement organise sa Nuit du c0de avec ses élèves.
 * Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
-* Un classement mondial sera établit.
+* Un classement mondial sera établi.
 
 ## CALENDRIER
 ### Septembre 2021 - Mars 2022 : inscriptions
@@ -39,9 +39,9 @@ Les établissements inscrits auront accès :
 * ...
 
 ### Janvier – Avril 2022 : Entraînements / Formation / Sélections
-Les établissements inscrits auront accès plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisés soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement pour l'épreuve) soit pour des entraînements ou de la formation. Ou les deux.
+Les établissements inscrits auront accès à plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisés soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement pour l'épreuve) soit pour des entraînements ou de la formation. Ou les deux.
 
-L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exmple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n'est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
+L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exemple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n'est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
 
 ### 23 Avril – 11 Juin 2022 : Nuit du c0de
 Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le samedi 23 avril 2022 et le samedi 11 juin 2022.
@@ -73,7 +73,7 @@ Cette année, de nombreux établissements sont encore fortement touchés par la 
 
 Contrairement à l'an dernier, il ne sera pas demandé aux équipes sélectionnées de réaliser une vidéo afin de ne pas leur demander du travail supplémentaire dans une période qui risque d'être déjà chargée. 
 
-Tous les jeux de chaque catégorie des deux meilleures équipes seront regroupés sur une interface similaire à celle utilisée pour évaluer les jeux dans les établissements. Un jury, formé d'enseignants volontaires (tout enseignant dont l'établissement participe à lévénement peut être membre du jury) évaluera l'ensemble des jeux. 
+Tous les jeux de chaque catégorie des deux meilleures équipes seront regroupés sur une interface similaire à celle utilisée pour évaluer les jeux dans les établissements. Un jury, formé d'enseignants volontaires (tout enseignant dont l'établissement participe à l'événement peut être membre du jury) évaluera l'ensemble des jeux. 
 
 Au terme de cette évaluation, il sera possible de fournir un classement "monde" pour chacune des catégories (pour Scratch et pour Python).
 
