@@ -12,7 +12,7 @@ Pour se faire une idée :
 * Un studio Scratch regroupant les [4 univers de jeu](https://scratch.mit.edu/studios/6502142/) (gamepacks) proposés lors de l'édition 2019 (ils contiennent donc tous les lutins et sons à utiliser mais aucun script).
 * Un studio Scratch regroupant les [jeux primés](https://scratch.mit.edu/studios/9987949/) lors de l'édition 2019.
 
-Comme vous pouvez le voir, le niveau est élevé, mais il ne faut pas s'en inquiéter : la Nuit du c0de est avant tout un événement convivial et les élèves apprendront beaucoup en y participant, quel que soit leur niveau.
+La Nuit du c0de est avant tout un événement convivial et les élèves apprendront beaucoup en y participant, quel que soit leur niveau.
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...).
 
