@@ -43,8 +43,8 @@ Les établissements inscrits auront accès à plusieurs univers de jeu avec une 
 
 L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exemple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n'est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
 
-### 23 Avril – 11 Juin 2022 : Nuit du c0de
-Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le samedi 23 avril 2022 et le samedi 11 juin 2022.
+### 2 mai – 11 juin 2022 : Nuit du c0de
+Les établissements inscrits recevront le vendredi 22 avril 2022 les 3 univers de jeu qui seront proposés aux élèves pour l'épreuve. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le 2 mai et le 11 juin 2022.
 
 La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 10h à 18h et les jeux réalisés seront testés et évalués à partir de 18h.
 
@@ -68,7 +68,7 @@ Des modèles de diplômes seront fournis aux établissements.
 
 ### Fin juin 2022 (au plus tard) : Classement "Monde"
 Cette année, de nombreux établissements sont encore fortement touchés par la pandémie. De plus, les nouvelles dates du baccalauréat tombent pendant la période de la Nuit du c0de. Pour offrir plus de souplesse dans l'organisation et éviter d'alourdir sa mise en place, plusieurs changements ont été nécessaires:
-- allongement de la période pour organiser l'événement : du samedi 23 avril 2022 au samedi 11 juin 2022
+- allongement de la période pour organiser l'événement : du 2 mai au 11 juin 2022
 - modification des critères pour le classement "monde"
 
 Contrairement à l'an dernier, il ne sera pas demandé aux équipes sélectionnées de réaliser une vidéo afin de ne pas leur demander du travail supplémentaire dans une période qui risque d'être déjà chargée. 
