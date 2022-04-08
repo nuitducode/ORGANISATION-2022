@@ -38,12 +38,12 @@ Les établissements inscrits auront accès :
 * des affiches.
 * ...
 
-### Janvier – Avril 2022 : Entraînements / Formation / Sélections
+### Janvier – Mai 2022 : Entraînements / Formation / Sélections
 Les établissements inscrits auront accès à plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisés soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement pour l'épreuve) soit pour des entraînements ou de la formation. Ou les deux.
 
 L'idée est que chaque établissement puisse offrir trois périodes de deux heures aux participants (une fois par mois par exemple) pour pouvoir s'entraîner dans des conditions proches de celles de l'épreuve finale. Cela n'est évidemment pas obligatoire et chaque établissement utilisera ces sujets comme il le souhaite.
 
-### 2 mai – 11 juin 2022 : Nuit du c0de
+### 2 Mai – 11 Juin 2022 : Nuit du c0de
 Les établissements inscrits recevront juste avant la date qu'ils ont fixée pour la Nuit du c0de, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels ! L'épreuve devra se dérouler entre le 2 mai et le 11 juin 2022.
 
 La durée de l'épreuve est de 6 heures : chaque établissement devra donc s'assurer à l'avance de la possibilité d'une telle période de travail. Par exemple, le Lycée Français de Tokyo organisera son épreuve le 21 mai de 10h à 18h et les jeux réalisés seront testés et évalués à partir de 18h.
