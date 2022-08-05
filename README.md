@@ -1,4 +1,4 @@
-# **🧙 ORGANISATION DE LA NUIT DU CODE**
+# **🧙 ORGANISATION - NUIT DU CODE 2022**
 
 * Site / inscription : www.nuitducode.net
 * Espace de discussion :  https://github.com/nuitducode/ORGANISATION/discussions
